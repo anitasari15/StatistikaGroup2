@@ -1,6 +1,6 @@
 # StatistikaGroup2
 
-Repository ini berisi materi tentang tugas Matakuliah Statistika Terapan, yang diampu oleh PYS. Dengan Mengusung Tema "Volume Kendaraan Yang Melintasi Kawasan Wsisata Taman Pintar" Adapun materi yang dijelaskan dalam repository ini antara lain
+Repository ini berisi materi tentang tugas Matakuliah Statistika Terapan, yang diampu oleh PYS. Dengan Mengusung Tema "Volume Kendaraan Yang Melintasi Kawasan Wisata Taman Pintar" Adapun materi yang dijelaskan dalam repository ini antara lain
 
 ## Daftar Isi
 
